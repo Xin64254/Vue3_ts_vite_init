@@ -2,7 +2,7 @@
   <div class="home-page">
     <h2>home</h2>
     <h2>home33</h2>
-    <van-button type="primary">按钮</van-button>
+    <van-button type="primary"><svg-icon icon-class="tongzhi" />按钮</van-button>
   </div>
 </template>
 
